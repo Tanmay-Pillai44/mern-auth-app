@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_URL = 'http://localhost:8000/api/auth/'
+const API_URL = 'https://mernapp-auth.herokuapp.com/api/auth/'
 
 
 const signup = async (userData) => {

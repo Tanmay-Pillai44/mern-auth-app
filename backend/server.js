@@ -39,3 +39,6 @@ app.use(errorHandler)
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`)
 })
+
+
+// mongodb+srv://omtej4499:<password>@mycluster.5g2hlqv.mongodb.net/authapp -- mongodb compass connect
